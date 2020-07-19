@@ -9,7 +9,7 @@ import 'package:gasgasapp/screens/about.dart';
 import 'package:gasgasapp/screens/contact.dart';
 import 'package:gasgasapp/screens/favorites.dart';
 import 'package:gasgasapp/screens/loginPage.dart';
-import 'package:gasgasapp/screens/myAccount.dart';
+import 'package:gasgasapp/screens/myAccount.dart'; 
 import 'package:gasgasapp/screens/settings.dart';
 
 class AdminPage extends StatefulWidget {
