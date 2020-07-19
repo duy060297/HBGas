@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "95344737472",
+    "firebase_url": "https://gas-gas-app.firebaseio.com",
+    "project_id": "gas-gas-app",
+    "storage_bucket": "gas-gas-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95344737472:android:626451ca9c970a717a0125",
+        "android_client_info": {
+          "package_name": "hcmute.gasgasapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95344737472-424q6gojvl41vse0tphqclo5tc8duej9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hcmute.gasgasapp",
+            "certificate_hash": "39954ebe5d07a466da81720bd0513770c0764e8b"
+          }
+        },
+        {
+          "client_id": "95344737472-s3q6ts6tke5ehv4gsd0dtibdtc0103q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD7ETyXEjyMNzx3oOCnapkeqvZhXpvSqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95344737472-s3q6ts6tke5ehv4gsd0dtibdtc0103q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
